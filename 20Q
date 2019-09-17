@@ -1,0 +1,32 @@
+using System;
+
+ class 20Q
+{
+  static void Main()
+  {
+   double 1,2,3,4,5;
+   string Fox, Otter;
+
+  Console.Console.WriteLine(" Put the number for the answer.");
+    1 = Console.ReadLine();
+  if(Most == 1)
+  {
+     Console.WriteLine(" You are a Fox.");
+  }♠
+  else
+  {
+    if(most == 2)
+    {
+    Console.WriteLine(" You are an Otter.");
+  }
+  else
+  {
+    if(most == 3)
+    {
+      Console.WriteLine("You are a  ");
+    }
+  }
+
+     Console.WriteLine("");
+  }
+}
